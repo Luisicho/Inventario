@@ -18,7 +18,7 @@ class  moduloMateriales   {
     obtener  gcodigo ( )  {
             devuelve  esto . _codigo
         }
-        // Cantidad
+        // Cantidad prueba 
     set  scantidad ( c )  {
         esto . _cantidad  =  c
     }
