@@ -11,75 +11,75 @@ class moduloEquipo {
             this._vUtil = vUtil
         }
         //Codigo
-    set scodigo(c) {
+    set setCodigo(c) {
         this._codigo = c
     }
 
-    get gcodigo() {
+    get getCodigo() {
             return this._codigo
         }
         //Cantidad
-    set scantidad(c) {
+    set setCantidad(c) {
         this._cantidad = c
     }
 
-    get gcantidad() {
+    get getCantidad() {
             return this._cantidad
         }
         //Descripcion
-    set sdescripcion(c) {
+    set setDescripcion(c) {
         this._descripcion = c
     }
 
-    get gdescripcion() {
+    get getDescripcion() {
             return this._descripcion
         }
         //Caracteristicas
-    set scaracteristicas(c) {
+    set setCaracteristicas(c) {
         this._caracteristicas = c
     }
 
-    get gcaracteristicas() {
+    get getCaracteristicas() {
             return this._caracteristicas
         }
         //Marca
-    set smarca(c) {
+    set setMarca(c) {
         this._marca = c
     }
 
-    get gmarca() {
+    get getMarca() {
             return this._marca
         }
         //Modelo
-    set smodelo(c) {
+    set setModelo(c) {
         this._modelo = c
     }
 
-    get gmodelo() {
+    get getModelo() {
             return this._modelo
         }
         //Tipo
-    set stipo(c) {
+    set setTipo(c) {
         this._tipo = c
     }
 
-    get gtipo() {
+    get getTipo() {
             return this._tipo
         }
         //Capaciad
-    set scapacidad(c) {
+    set setCapacidad(c) {
         this._capacidad = c
     }
 
-    get gcapacidad() {
+    get getCapacidad() {
             return this._capacidad
         }
         //vUtili
-    set svUtil(c) {
+    set setVidaUtil(c) {
         this._vUtil = c
     }
 
-    get gvUtil() {
+    get getVidaUtil() {
         return this._vUtil
     }
 

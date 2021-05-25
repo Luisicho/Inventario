@@ -11,75 +11,76 @@ class  moduloMateriales   {
             this. _caducidad  =  caducidad
         }
         // Codigo
-    set  codigo ( c )  {
+    set  setCodigo ( c )  {
         this. _codigo  =  c
     }
 
-    get  codigo ( )  {
+    get  getCodigo ( )  {
             return this. _codigo
         }
         // Cantidad prueba 
-    set  cantidad ( c )  {
+    set  setCantidad ( c )  {
         this._cantidad  =  c
     }
 
-    get  cantidad ( )  {
+    get  getCantidad ( )  {
             return  this. _cantidad
     }
     // Descripcion
-    set  descripcion ( c )  {
+    set  setDescripcion ( c )  {
         this . _descripcion  =  c
     }
 
-    get  descripcion ( )  {
+    get  getDescripcion ( )  {
         return this. _descripcion
         }
         // Caracteristicas
-    set  caracteristicas ( c )  {
+    set  setCaracteristicas ( c )  {
         this. _caracteristicas  =  c
     }
 
-    get  caracteristicas ( )  {
+    get  getCaracteristicas ( )  {
             return this. _caracteristicas
         }
         // marca
-    set  marca ( c )  {
+    set  setMarca ( c )  {
         this. _marca  =  c
     }
 
-    get  marca ( )  {
+    get  getMarca ( )  {
             return this. _marca
         }
         // area
-    set area ( c )  {
+    set setArea ( c )  {
         this. _area  =  c
     }
 
-    get  area ( )  {
+    get  getArea ( )  {
             return  this. _area
         }
         // Tipo
-    set  tipo ( c )  {
+    set  setTipo ( c )  {
         this. _tipo  =  c
     }
 
-    get  tipo ( )  {
+    get  getTipo ( )  {
             return this. _tipo
         }
         // Capaciad
-    set  peso ( c )  {
+    set  setPeso ( c )  {
         this. _peso  =  c
     }
 
-    get  peso ( )  {
+    get  getPeso ( )  {
             return  this._peso
         }
         // caducidadi
-    set  caducidad ( c )  {
+    set  setCaducidad ( c )  {
         this. _caducidad  =  c
     }
 
-    get  caducidad ( )  {
+
+    get  getCaducidad ( )  {
         return  this. _caducidad
     }
 
