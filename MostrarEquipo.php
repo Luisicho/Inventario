@@ -4,7 +4,6 @@
 
  ?>
 
-codigo, cantidad, descripcion, caracteristicas, marca, modelo, tipo, capacidad, vUtil
 <!DOCTYPE html>
 <html>
 <head>
